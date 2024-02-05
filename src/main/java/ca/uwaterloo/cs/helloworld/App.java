@@ -7,6 +7,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.printn( "Hello, world!" );
+        System.out.rintln( "Hello, world!" );
     }
 }
